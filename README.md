@@ -3,6 +3,9 @@
 社内作業のコミット先としても利用しているためプライベートレポジトリが多めになっています。\
 よろしくお願いします。
 
+# 連絡先
+連絡はTwitterまで @yosida001
+
 # My Qiita works
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/yosida001/posts.svg)](http://qiita.com/yosida001)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/yosida001/contributions.svg)](http://qiita.com/yosida001)
